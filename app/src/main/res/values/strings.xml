@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Awesome app</string>
+    <string name="btn_OK">OK</string>
+    <string name="btn_Cancel">Cancel</string>
+</resources>
